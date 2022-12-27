@@ -1,0 +1,6 @@
+git log - command that show all the commits
+git show hexcode - command that show all changes in commit
+
+git blame filename - if you don't know the commit where your file, this command show all commits where was this file
+
+git grep word - command that search that word in all files
